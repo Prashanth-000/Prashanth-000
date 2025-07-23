@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Prashanth-000
-- 👀 I’m interested in you
-- 🌱 I’m currently learning about you
-- 💞️ I’m looking to collaborate with you
-- 📫 How to reach you
-- 😄 Pronouns: must be ...
-- ⚡ Fun fact: i am not joking
+## 👋 Hi there! I'm Prashantha
+
+🎓 I'm a final-year engineering student passionate about**Artificial Intelligence** **Full-Stack Development** and **Machine Learning**.  
+💡 I love building projects that combine creativity with real-world problem-solving.  
+🌱 Currently learning more about deep learning, NLP, and model deployment.  
+🤝 I'm open to collaboration on AI/ML, Python-based tools, and anything innovative!  
+📫 Reach me at: prashanthkulal2589@gmail.com or connect on [LinkedIn] https://www.linkedin.com/in/prash-x/  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I debug better after midnight.
+
 
 <!---
 Prashanth-000/Prashanth-000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
