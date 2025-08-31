@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Prashantha
+## 👋 Hi there! I'm Prashanth
 
 🎓 I'm a final-year engineering student passionate about**Artificial Intelligence** **Full-Stack Development** and **Machine Learning**.  
 💡 I love building projects that combine creativity with real-world problem-solving.  
